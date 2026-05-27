@@ -1,34 +1,24 @@
 {
-  "name": "Epic Converter LUAN Arichuna ⚡",
-  "short_name": "LUAN Converter",
-  "description": "Convertidor de divisas venezolano con tasas BCV, Binance, Paralelo y Euro. Funciona offline.",
-  "start_url": "./index.html",
+  "name": "Manual Oficial — Quiniela LuAn 2026",
+  "short_name": "Manual LuAn",
+  "description": "Reglamento, sistema de puntos y guía oficial de la Quiniela LuAn 2026.",
+  "start_url": "/Quiniela/",
   "display": "standalone",
-  "background_color": "#1a1a2e",
-  "theme_color": "#ffd700",
-  "orientation": "portrait-primary",
-  "lang": "es-VE",
-  "categories": ["finance", "utilities"],
+  "orientation": "portrait",
+  "background_color": "#080812",
+  "theme_color": "#7c3aed",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192/ffd700/1a1a2e?text=LUAN",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://via.placeholder.com/512/ffd700/1a1a2e?text=LUAN",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "https://via.placeholder.com/800x600/1a1a2e/ffd700?text=Epic+Converter",
-      "sizes": "800x600",
-      "type": "image/png",
-      "form_factor": "wide"
+      "purpose": "any"
     }
   ]
 }
